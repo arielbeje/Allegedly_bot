@@ -15,4 +15,4 @@ async def on_message (message):
 		if int = 0:
 			await client.send_message(message.channel, "*Allegedly...*")
 
-client.run(token, bot=False)
+client.run(token, bot=True)
