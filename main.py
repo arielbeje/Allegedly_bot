@@ -1,12 +1,13 @@
 import discord
 import asyncio
+import time
 from random import randint
 
 client = discord.Client()
 
-token = "" #To get a token,
+token = ""
 
-YourID = "" #Get this id by using \@yourname and copying only the numbers
+YourID = ""
 
 @client.event
 async def on_message (message):
