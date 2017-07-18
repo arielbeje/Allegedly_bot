@@ -1,9 +1,6 @@
 # Allegedly_bot
 This bot has a 1% chance to respond to a message from the user with the set ID with "Allegedly..."
 
-### Todo:
-* Make the bot able to operate by role instead of ID.
-
 ### [Quick install guide](https://github.com/arielbeje/Allegedly_bot/wiki/Quick-Install-Guide)
 
 # Requirements
