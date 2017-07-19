@@ -12,7 +12,7 @@ roleNames = []
 
 @client.event
 async def on_message(message):
-    allegedly = False
+	allegedly = False
     
     if message.author.id in userIDs:
         allegedly = True
